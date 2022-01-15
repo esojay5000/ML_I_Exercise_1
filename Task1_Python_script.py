@@ -8,7 +8,7 @@ import re
 from bs4 import BeautifulSoup
 # Code ends here
 
-# sys module is required for line 26
+# sys module is required for line 25
 import sys
 
 # function to get the html source text of the medium article
